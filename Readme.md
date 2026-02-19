@@ -16,7 +16,7 @@ The primary endpoint was time-to-death (all-cause mortality).
 - 174 Conservative treatment
 - 8,622 Haemodialysis
 - Follow-up up to 16.2 years
-- Multiple baseline covariates (age, sex, comorbidities)
+- Multiple baseline covariates (age, sex, etc)
 
 ---
 
