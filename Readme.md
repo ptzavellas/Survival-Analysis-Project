@@ -119,9 +119,7 @@ Estimated period-specific hazard ratios and effectiveness.
 
 - R
 - survival package
-- survminer
 - survreg
-- tidyverse
 
 ---
 
